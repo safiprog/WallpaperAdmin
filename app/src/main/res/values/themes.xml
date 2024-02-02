@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GetPics" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/Pramary</item>
+        <item name="colorSecondary">@color/Secondary</item>
+
+    </style>
+
+    <style name="Theme.GetPics" parent="Base.Theme.GetPics" />
+    <style name="myText">
+        <item name="android:background">@color/thirt</item>
+        <item name="android:textSize">16sp</item>
+
+    </style>
+</resources>

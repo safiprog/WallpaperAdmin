@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872788350575",
+    "project_id": "getpics-7e68c",
+    "storage_bucket": "getpics-7e68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872788350575:android:81319171f80dac0061df9a",
+        "android_client_info": {
+          "package_name": "com.example.getpics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGkRZzMROnpoxFf8j9v9EtZidF-RNLf1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
